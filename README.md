@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtiqRehaman
 - 👀 I’m interested in AI for image processing
-- 🌱 I’m currently learning ML using pthon
+- 🌱 I’m currently learning DL using pthon
 - 💞️ I’m looking to collaborate on TRY-ON
 - 📫 How to reach me @atiqrehamanshaik@gmail.com 
 
