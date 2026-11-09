@@ -6,8 +6,8 @@
 
 **B.Tech CSE Student at LBRCE &bull; India**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-0284C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiq-rehaman-shaik/)
+[![Email](https://img.shields.io/badge/Email-0284C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atiqrehamanshaik@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtiqRehaman)
 
 </div>
@@ -35,7 +35,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![Tavily](https://img.shields.io/badge/Tavily_AI-0284C7?style=flat-square&logo=airtable&logoColor=white)
 
 #### Frontend & Backend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -50,10 +49,7 @@
 #### Databases, DevOps & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
@@ -64,12 +60,7 @@
 #### 1. Hybrid Image Transfer via Superdense Coding
 - **Description:** A quantum-classical hybrid framework leveraging quantum entanglement and superdense coding protocols to efficiently transmit classical image data across quantum channels.
 - **Tech Stack:** Python, Qiskit, OpenCV, NumPy
-- **Repository:** [View on GitHub](https://github.com/AtiqRehaman)
-
-#### 2. Animal Detection & Classification System
-- **Description:** An end-to-end computer vision pipeline engineered to accurately detect, localize, and classify wildlife across diverse camera angles and ambient lighting conditions.
-- **Tech Stack:** Python, PyTorch, OpenCV, FastAPI
-- **Repository:** [View on GitHub](https://github.com/AtiqRehaman)
+- **Repository:** [View on GitHub](https://github.com/AtiqRehaman/quanta)
 
 ---
 
@@ -97,6 +88,6 @@
 
 ### 🤝 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [linkedin.com/in/atiq-rehaman-shaik](https://www.linkedin.com/in/atiq-rehaman-shaik/)
+- **Email:** [atiqrehamanshaik@gmail.com](mailto:atiqrehamanshaik@gmail.com)
 - **GitHub:** [@AtiqRehaman](https://github.com/AtiqRehaman)
