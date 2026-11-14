@@ -1,93 +1,24 @@
-<div align="center">
+# 💫 About Me:
+AI/ML Enthusiast | Building with Generative Models & Computer Vision<br> Passionate about scalable AI solutions & open-source innovation.<br>B. Tech Computer Science Student at LBRCE.<br>Fun fact: Half Engineer, Half Creative, All Curious.
 
-# Hi there, I'm Shaik Atiq Rehaman 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%26+Full+Stack+Developer;Aspiring+AI+Engineer;Autonomous+Agents+%7C+Computer+Vision;Quantum+Protocols+%26+Deep+Learning)](https://github.com/AtiqRehaman)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atiq-rehaman-shaik/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atiqrehamanshaik@gmail.com) 
 
-**B.Tech CSE Student at LBRCE &bull; India**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AtiqRehaman&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AtiqRehaman&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AtiqRehaman&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atiq-rehaman-shaik/)
-[![Email](https://img.shields.io/badge/Email-0284C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atiqrehamanshaik@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtiqRehaman)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AtiqRehaman&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
-
----
-
-### 🧠 About Me
-
-- 🔭 I am currently working on autonomous agents, deep learning architectures, and production-grade full-stack systems.
-- 🎯 My primary career objective is to become an **AI Engineer**, bridging research-grade models with reliable production infrastructure.
-- 🔬 Core areas of interest: **Autonomous Agents**, **Computer Vision**, and **Full-Stack Engineering**.
-- 💡 Fun fact: *Half Engineer, Half Creative, All Curious.*
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AtiqRehaman&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=AtiqRehaman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Technical Skills
-
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-#### AI, Machine Learning & Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-
-#### Frontend & Backend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### Databases, DevOps & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
----
-
-### 🚀 Featured Projects
-
-#### 1. Hybrid Image Transfer via Superdense Coding
-- **Description:** A quantum-classical hybrid framework leveraging quantum entanglement and superdense coding protocols to efficiently transmit classical image data across quantum channels.
-- **Tech Stack:** Python, Qiskit, OpenCV, NumPy
-- **Repository:** [View on GitHub](https://github.com/AtiqRehaman/quanta)
-
----
-
-### 🏆 Honors & Achievements
-
-- 🥇 **1st Prize** — Machine Learning Hackathon, Lakireddy Bali Reddy College of Engineering (LBRCE)
-- 🥈 **Runner-Up** — Amaravati Quantum Valley Hackathon (AQVH) Semi-Finals
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AtiqRehaman&show_icons=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&border_color=1e293b" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtiqRehaman&layout=compact&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&border_color=1e293b" alt="Top Languages" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtiqRehaman&theme=tokyonight&background=0f172a&border=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=38bdf8&sideLabels=94a3b8" alt="GitHub Streak" width="97%" />
-
-</div>
-
----
-
-### 🤝 Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/atiq-rehaman-shaik](https://www.linkedin.com/in/atiq-rehaman-shaik/)
-- **Email:** [atiqrehamanshaik@gmail.com](mailto:atiqrehamanshaik@gmail.com)
-- **GitHub:** [@AtiqRehaman](https://github.com/AtiqRehaman)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
